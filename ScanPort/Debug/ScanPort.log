@@ -1,0 +1,4 @@
+﻿  main.cpp
+W:\ScanPort\main.cpp(23,2): warning C4091: typedef : пропускается слева от "PORT_INFO", когда ни одна переменная не объявлена
+W:\ScanPort\main.cpp(28,2): warning C4091: typedef : пропускается слева от "PORT_INFO_VECTOR", когда ни одна переменная не объявлена
+  ScanPort.vcxproj -> W:\ScanPort\Debug\ScanPort.exe

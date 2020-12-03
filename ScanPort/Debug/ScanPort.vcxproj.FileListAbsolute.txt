@@ -1,0 +1,2 @@
+W:\ScanPort\Debug\ScanPort.exe
+W:\ScanPort\Debug\ScanPort.pdb
